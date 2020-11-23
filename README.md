@@ -11,7 +11,7 @@ set the shadow's attrs like shadowRatio, shadowCircleAngle, shadowColor, shadowS
 
 
 ## Examples:
-![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/657e03485659486a94b57497c6627c0c~tplv-k3u1fbpfcp-watermark.image)
+![](https://github.com/HuanHaiLiuXin/RoundShadowImageView/blob/main/RoundShadowImageView.gif)
 
 ## Refrences
-- [https://juejin.cn/post/6896723169705459719](https://juejin.cn/editor/drafts/6896721284927848455)
+- [问题0011 - Android 阴影 轮廓 Outline](https://juejin.cn/editor/drafts/6896721284927848455)
