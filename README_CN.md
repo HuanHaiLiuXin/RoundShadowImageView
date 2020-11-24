@@ -37,4 +37,4 @@ RoundShadowImageView 是1个为圆形图片的ImageView添加阴影的自定义�
 ```
 
 ## 参考文章
-- [问题0011 - Android 阴影 轮廓 Outline](https://juejin.cn/editor/drafts/6896721284927848455)
+- [问题0011 - Android 阴影 轮廓 Outline](https://juejin.cn/post/6896723169705459719)
