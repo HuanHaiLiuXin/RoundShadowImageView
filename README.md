@@ -14,4 +14,4 @@ set the shadow's attrs like shadowRatio, shadowCircleAngle, shadowColor, shadowS
 ![](https://github.com/HuanHaiLiuXin/RoundShadowImageView/blob/main/RoundShadowImageView.gif)
 
 ## Refrences
-- [问题0011 - Android 阴影 轮廓 Outline](https://juejin.cn/editor/drafts/6896721284927848455)
+- [问题0011 - Android 阴影 轮廓 Outline](https://juejin.cn/post/6896723169705459719)
